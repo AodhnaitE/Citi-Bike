@@ -10,11 +10,11 @@
 
 3. 202003-citibike-tripdata
 
-4.202004-citibike-tripdata
+4. 202004-citibike-tripdata
 
-5.202005-citibike-tripdata
+5. 202005-citibike-tripdata
 
-6.202006-citibike-tripdata
+6. 202006-citibike-tripdata
 
 ** Files to big too uplad exceeds 100mb limit
 
