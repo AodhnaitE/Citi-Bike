@@ -1,6 +1,9 @@
 # Unit 18 Homework: Citi Bike Analytics
 
 ## Tableau link: https://public.tableau.com/app/profile/aodhnait.elliott
+## Data link: https://s3.amazonaws.com/tripdata/index.html
+
+** Files to big too uplad exceeds 100mb limit
 
 ## Background
 
